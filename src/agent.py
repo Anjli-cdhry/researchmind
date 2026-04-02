@@ -10,7 +10,7 @@ load_dotenv()
 
 # Initialize Groq LLM — this model has reliable tool calling support
 llm = ChatGroq(
-    api_key=os.getenv("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"),
+    api_key=os.getenv("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"),
     model="meta-llama/llama-4-scout-17b-16e-instruct",
     temperature=0
 )
@@ -23,7 +23,7 @@ memory = AgentMemory()
 
 # Initialize critic LLM for self-reflection (no tools needed)
 critic_llm = ChatGroq(
-    api_key=os.getenv("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"),
+    api_key=os.getenv("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"),
     model="meta-llama/llama-4-scout-17b-16e-instruct",
     temperature=0
 )
