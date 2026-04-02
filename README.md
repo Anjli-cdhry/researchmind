@@ -3,7 +3,7 @@
 An autonomous AI research agent that conducts deep web research, synthesizes findings, and delivers structured, cited reports with self-reflection quality scoring.
 
 ## 🎥 Demo
-[YouTube Demo Link] — https://youtu.be/BFecjZ8rCyw
+[YouTube Demo Link] — https://youtu.be/zsxBNxHsN7Y
 
 ## ✨ Features
 
